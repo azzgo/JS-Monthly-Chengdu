@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2017-04-19T02:32:54.000Z</updated>
+  <updated>2017-07-02T13:31:38.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,67 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第十八期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/02/monthly-issue-18/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/02/monthly-issue-18/</id>
+    <published>2017-07-02T13:13:00.000Z</published>
+    <updated>2017-07-02T13:31:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://nodejs.org/en/blog/release/v8.0.0/" target="_blank" rel="external">Node.js 8.0</a><br>Nodejs 发布8.0啦</p>
+<p><a href="https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b" target="_blank" rel="external">Webpack 3.0 release!</a><br>减少了闭包层级，大大加快了执行性能，更多特性点击链接<br><a id="more"></a></p>
+<p><a href="Fluent Design">Fluent Design</a><br>一个全新强大模拟真实的世界的设计语言，微软出品</p>
+<h4 id="Repos"><a href="#Repos" class="headerlink" title="Repos"></a>Repos</h4><p><a href="https://github.com/ngryman/speedracer" target="_blank" rel="external">Speedracer</a><br>收集显示您的前端应用程序的性能指标</p>
+<p><a href="https://butternut.now.sh/" target="_blank" rel="external">Butternut</a><br>面向未来的，快速的Minifier</p>
+<h4 id="TECHS"><a href="#TECHS" class="headerlink" title="TECHS"></a>TECHS</h4><p><a href="https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_" target="_blank" rel="external">JSConf EU 2017 Video</a><br>今年JSConf欧洲区出品，WebAssembly，Service Workder，快来了解未来的黑科技</p>
+<p><a href="https://expo.io/" target="_blank" rel="external">Expo</a><br>React Native with fun</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.0.0/&quot;&gt;Node.js 8.0&lt;/a&gt;&lt;br&gt;Nodejs 发布8.0啦&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b&quot;&gt;Webpack 3.0 release!&lt;/a&gt;&lt;br&gt;减少了闭包层级，大大加快了执行性能，更多特性点击链接&lt;br&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第十七期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/05/12/monthly-issue-17/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/05/12/monthly-issue-17/</id>
+    <published>2017-05-12T14:01:00.000Z</published>
+    <updated>2017-05-15T06:45:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="News"><a href="#News" class="headerlink" title="News"></a>News</h4><p><a href="http://2017.jsconf.cn/" target="_blank" rel="external">JsConf China</a><br>一年一届JS盛会，今年，上海</p>
+<a id="more"></a>
+<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><p><a href="https://medium.com/reloading/javascript-start-up-performance-69200f43b201" target="_blank" rel="external">JavaScript Start-up Performance</a><br>首屏JS加载性能全面解析</p>
+<h4 id="Repos"><a href="#Repos" class="headerlink" title="Repos"></a>Repos</h4><p><a href="https://github.com/reactide/reactide" target="_blank" rel="external">React IDE</a><br>专为React而生的IDE，火爆了</p>
+<p><a href="https://github.com/brysgo/graphql-gun" target="_blank" rel="external">Graphql-Gun</a><br>支持Graphql语法的P2P DB，偏激的另类玩法</p>
+<p><a href="https://github.com/shakiba/planck.js" target="_blank" rel="external">Planck.js</a><br>2D游戏物理引擎</p>
+<p><a href="https://github.com/zeit/pkg" target="_blank" rel="external">Pkg</a><br>部署神器，把nodejs项目打包成可执行文件</p>
+<p><a href="https://github.com/nolanlawson/optimize-js" target="_blank" rel="external">Optimize-js</a> &amp; <a href="https://github.com/facebook/prepack" target="_blank" rel="external">Prepack</a><br>努力，只为性能</p>
+<h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><p><a href="https://github.com/gothinkster/realworld" target="_blank" rel="external">RealWorld</a><br>喜欢看代码的同学有福了，多种框架TODO MVC实战代码</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://2017.jsconf.cn/&quot;&gt;JsConf China&lt;/a&gt;&lt;br&gt;一年一届JS盛会，今年，上海&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第十六期</title>
