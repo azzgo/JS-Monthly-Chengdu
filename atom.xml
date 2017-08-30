@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2017-08-30T01:31:15.000Z</updated>
+  <updated>2017-08-30T01:41:16.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>monthly-issue-20</title>
+    <title>JavaScript Monthly 第二十期</title>
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/</id>
     <published>2017-08-30T01:16:43.000Z</published>
-    <updated>2017-08-30T01:31:15.000Z</updated>
+    <updated>2017-08-30T01:41:16.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry" target="_blank" rel="external">NPM 恶意软件事件</a><br>7月19日至7月31日，用户“hacktask”发布一系列与现存NPM包相似的域名实施“误植域名”（Typosquatting）攻击</p>
 <p><a href="https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15" target="_blank" rel="external">Webpack 获得Mozila基金$125,000资助</a><br>Mozilla 助力webpack，着重推动Webassembly发展<br><a id="more"></a></p>
@@ -48,11 +48,11 @@
   </entry>
   
   <entry>
-    <title>JavaScript Monthly 第十八期</title>
+    <title>JavaScript Monthly 第十九期</title>
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/31/monthly-issue-19/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/31/monthly-issue-19/</id>
     <published>2017-07-31T09:15:53.000Z</published>
-    <updated>2017-08-30T01:19:42.000Z</updated>
+    <updated>2017-08-30T01:41:02.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://eslint.org/blog/2017/06/eslint-v4.0.0-released" target="_blank" rel="external">Eslint 4.0 Released</a><br>Eslint 4.0发布，增加了新API和新规则</p>
 <p><a href="https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai" target="_blank" rel="external">Automated testing with Headless Chrome</a><br>Chrome也有headless版本了，E2E测试又有了新方案，更快更简单<br><a id="more"></a><br><a href="https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66" target="_blank" rel="external">ES8 was Released and here are its Main New Features</a><br>ES8发布，新语法String padding，Object Value/Entries, Async Functions等正式进入标准</p>
