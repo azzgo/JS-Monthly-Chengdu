@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2017-07-02T13:31:38.000Z</updated>
+  <updated>2017-08-30T01:31:15.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>monthly-issue-20</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/</id>
+    <published>2017-08-30T01:16:43.000Z</published>
+    <updated>2017-08-30T01:31:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry" target="_blank" rel="external">NPM 恶意软件事件</a><br>7月19日至7月31日，用户“hacktask”发布一系列与现存NPM包相似的域名实施“误植域名”（Typosquatting）攻击</p>
+<p><a href="https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15" target="_blank" rel="external">Webpack 获得Mozila基金$125,000资助</a><br>Mozilla 助力webpack，着重推动Webassembly发展<br><a id="more"></a></p>
+<p><a href="https://medium.com/the-node-js-collection/node-options-has-landed-in-8-x-5fba57af703d" target="_blank" rel="external">NODE_OPTIONS引入Node 8.x</a><br>终于可以类似Java配置NODE运行参数了</p>
+<p><a href="https://thenewstack.io/node-js-forked-complaints-repeated-harassment/" target="_blank" rel="external">Aya</a><br>NODE社区再次分裂，Aya</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/standard-things/esm" target="_blank" rel="external">@std/esm</a><br>ES Module Polyfils in Nodejs</p>
+<p><a href="https://github.com/NG-ZORRO/ng-zorro-antd" target="_blank" rel="external">NG-ZORRO</a><br>Ant-Design Angular v4 UI库</p>
+<p><a href="https://github.com/GoogleChrome/puppeteer" target="_blank" rel="external">Puppeteer</a><br>Headless Chrome node API, 官方团队倾力打造</p>
+<p><a href="http://getatmo.com/" target="_blank" rel="external">Atmo</a><br>轻巧的GUI Mock Server</p>
+<h4 id="TECH"><a href="#TECH" class="headerlink" title="TECH"></a>TECH</h4><p><a href="https://medium.com/the-node-js-collection/timing-is-everything-6d43fc9fd416" target="_blank" rel="external">Timing is Everything</a><br>在NodeJS程序中更加细粒度的性能分析</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry&quot;&gt;NPM 恶意软件事件&lt;/a&gt;&lt;br&gt;7月19日至7月31日，用户“hacktask”发布一系列与现存NPM包相似的域名实施“误植域名”（Typosquatting）攻击&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15&quot;&gt;Webpack 获得Mozila基金$125,000资助&lt;/a&gt;&lt;br&gt;Mozilla 助力webpack，着重推动Webassembly发展&lt;br&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript Monthly 第十八期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/31/monthly-issue-19/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/31/monthly-issue-19/</id>
+    <published>2017-07-31T09:15:53.000Z</published>
+    <updated>2017-08-30T01:19:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://eslint.org/blog/2017/06/eslint-v4.0.0-released" target="_blank" rel="external">Eslint 4.0 Released</a><br>Eslint 4.0发布，增加了新API和新规则</p>
+<p><a href="https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai" target="_blank" rel="external">Automated testing with Headless Chrome</a><br>Chrome也有headless版本了，E2E测试又有了新方案，更快更简单<br><a id="more"></a><br><a href="https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66" target="_blank" rel="external">ES8 was Released and here are its Main New Features</a><br>ES8发布，新语法String padding，Object Value/Entries, Async Functions等正式进入标准</p>
+<h4 id="Repos"><a href="#Repos" class="headerlink" title="Repos"></a>Repos</h4><p><a href="https://js-joda.github.io/js-joda/" target="_blank" rel="external">js-joda/js-joda</a><br>Immutable date and time library for javascript</p>
+<p><a href="https://github.com/gpujs/gpu.js" target="_blank" rel="external">GPU Accelerated JavaScript</a><br>利用GPU加速优化JS密集计算的解决方案，比Web Workers性能好很多，且可以fallback</p>
+<p><a href="https://github.com/nodejs/node-chakracore" target="_blank" rel="external">Nodejs on Chakracore</a><br>Nodejs社区开始尝试基于微软JS引擎Chakracore的新版本，作为已有基于Google V8引擎的替代方案</p>
+<h4 id="TECHS"><a href="#TECHS" class="headerlink" title="TECHS"></a>TECHS</h4><p><a href="https://ponyfoo.com/articles/tc39-ecmascript-proposals-future-of-javascript" target="_blank" rel="external">Proposals future of Javascript</a><br>这篇文章介绍了Javascript标准的设定(stage 0-4)和一些草案</p>
+<p><a href="https://native.directory/" target="_blank" rel="external">Collection of popular react native packages</a><br>React Native组件集合，整合了很多有用的评估数据帮助选择</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://eslint.org/blog/2017/06/eslint-v4.0.0-released&quot;&gt;Eslint 4.0 Released&lt;/a&gt;&lt;br&gt;Eslint 4.0发布，增加了新API和新规则&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai&quot;&gt;Automated testing with Headless Chrome&lt;/a&gt;&lt;br&gt;Chrome也有headless版本了，E2E测试又有了新方案，更快更简单&lt;br&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第十八期</title>
