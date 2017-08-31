@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2017-08-30T01:41:16.000Z</updated>
+  <updated>2017-08-31T05:22:17.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -20,12 +20,12 @@
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/08/30/monthly-issue-20/</id>
     <published>2017-08-30T01:16:43.000Z</published>
-    <updated>2017-08-30T01:41:16.000Z</updated>
+    <updated>2017-08-31T05:22:17.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry" target="_blank" rel="external">NPM 恶意软件事件</a><br>7月19日至7月31日，用户“hacktask”发布一系列与现存NPM包相似的域名实施“误植域名”（Typosquatting）攻击</p>
 <p><a href="https://medium.com/webpack/webpack-awarded-125-000-from-moss-program-f63eeaaf4e15" target="_blank" rel="external">Webpack 获得Mozila基金$125,000资助</a><br>Mozilla 助力webpack，着重推动Webassembly发展<br><a id="more"></a></p>
 <p><a href="https://medium.com/the-node-js-collection/node-options-has-landed-in-8-x-5fba57af703d" target="_blank" rel="external">NODE_OPTIONS引入Node 8.x</a><br>终于可以类似Java配置NODE运行参数了</p>
-<p><a href="https://thenewstack.io/node-js-forked-complaints-repeated-harassment/" target="_blank" rel="external">Aya</a><br>NODE社区再次分裂，Aya</p>
+<p><a href="https://thenewstack.io/node-js-forked-complaints-repeated-harassment/" target="_blank" rel="external">Ayo</a><br>NODE社区再次分裂，Ayo</p>
 <h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/standard-things/esm" target="_blank" rel="external">@std/esm</a><br>ES Module Polyfils in Nodejs</p>
 <p><a href="https://github.com/NG-ZORRO/ng-zorro-antd" target="_blank" rel="external">NG-ZORRO</a><br>Ant-Design Angular v4 UI库</p>
 <p><a href="https://github.com/GoogleChrome/puppeteer" target="_blank" rel="external">Puppeteer</a><br>Headless Chrome node API, 官方团队倾力打造</p>
