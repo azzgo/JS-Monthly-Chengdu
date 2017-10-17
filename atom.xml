@@ -5,7 +5,7 @@
   <link href="/JS-Monthly-Chengdu/atom.xml" rel="self"/>
   
   <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/"/>
-  <updated>2017-08-31T05:22:17.000Z</updated>
+  <updated>2017-10-17T03:33:40.000Z</updated>
   <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript Monthly 第二十一期</title>
+    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/10/17/monthly-issue-21/"/>
+    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/10/17/monthly-issue-21/</id>
+    <published>2017-10-17T03:09:06.000Z</published>
+    <updated>2017-10-17T03:33:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="https://code.facebook.com/posts/274518539716230" target="_blank" rel="external">Yarn Release</a><br>Yarn 1.0 来了，支持Workspaces，Auto-merging of lockfiles等新特性</p>
+<p><a href="https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html" target="_blank" rel="external">React 16 Release</a><br>React 16发布了，性能提升，并且–Lisense已经改为MIT</p>
+<p><a href="http://coffeescript.org/announcing-coffeescript-2/" target="_blank" rel="external">CoffeeScript 2</a><br>CoffeeScript也支持ES6特性了</p>
+<a id="more"></a>
+<p><a href="https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08" target="_blank" rel="external">Upcoming TypeScript Changes in Vue 2.5</a><br>Vue 2.5即将官方支持Typescript</p>
+<h4 id="REPOS"><a href="#REPOS" class="headerlink" title="REPOS"></a>REPOS</h4><p><a href="https://github.com/renatorib/react-powerplug" target="_blank" rel="external">React PowerPlug</a><br>简单包装即可赋予你的无状态组件状态</p>
+<p><a href="https://element-angular.faas.ele.me/guide/install" target="_blank" rel="external">Element for Angular</a><br>Element UI出Angular Version了</p>
+<p><a href="https://github.com/graphcool/graphcool" target="_blank" rel="external">Graphcool</a><br>基于GraphQL的后端开发框架</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;NEWS&quot;&gt;&lt;a href=&quot;#NEWS&quot; class=&quot;headerlink&quot; title=&quot;NEWS&quot;&gt;&lt;/a&gt;NEWS&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://code.facebook.com/posts/274518539716230&quot;&gt;Yarn Release&lt;/a&gt;&lt;br&gt;Yarn 1.0 来了，支持Workspaces，Auto-merging of lockfiles等新特性&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html&quot;&gt;React 16 Release&lt;/a&gt;&lt;br&gt;React 16发布了，性能提升，并且–Lisense已经改为MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://coffeescript.org/announcing-coffeescript-2/&quot;&gt;CoffeeScript 2&lt;/a&gt;&lt;br&gt;CoffeeScript也支持ES6特性了&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
+    
+    
+      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript Monthly 第二十期</title>
@@ -52,7 +84,7 @@
     <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/31/monthly-issue-19/"/>
     <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2017/07/31/monthly-issue-19/</id>
     <published>2017-07-31T09:15:53.000Z</published>
-    <updated>2017-08-30T01:41:02.000Z</updated>
+    <updated>2017-10-17T03:08:02.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="NEWS"><a href="#NEWS" class="headerlink" title="NEWS"></a>NEWS</h4><p><a href="http://eslint.org/blog/2017/06/eslint-v4.0.0-released" target="_blank" rel="external">Eslint 4.0 Released</a><br>Eslint 4.0发布，增加了新API和新规则</p>
 <p><a href="https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai" target="_blank" rel="external">Automated testing with Headless Chrome</a><br>Chrome也有headless版本了，E2E测试又有了新方案，更快更简单<br><a id="more"></a><br><a href="https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66" target="_blank" rel="external">ES8 was Released and here are its Main New Features</a><br>ES8发布，新语法String padding，Object Value/Entries, Async Functions等正式进入标准</p>
@@ -669,41 +701,6 @@
 &lt;p&gt;&lt;a href=&quot;http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;amp;id=133f4aa4b9&amp;amp;e=06daca7060&quot;&gt;New about Node.js v5&lt;/a&gt;&lt;br&gt;Node.js 5.0新看点&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;amp;id=2416c4aa21&amp;amp;e=06daca7060&quot;&gt;Is Angular 2.0 ready? Soon!&lt;/a&gt;&lt;br&gt;Angular 2.0 要来了&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;amp;id=4f10275eb3&amp;amp;e=06daca7060&quot;&gt;Babel 6.0 release&lt;/a&gt;&lt;br&gt;Babel 6.0 发布, Babel将会把es6转换工作交给插件, 本身会成为一款Javascript的工具平台&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/categories/monthly/"/>
-    
-    
-      <category term="monthly" scheme="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/tags/monthly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript Monthly 第一期</title>
-    <link href="http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2015/10/20/monthly-issue-1/"/>
-    <id>http://thoughtworksinc.github.io/JS-Monthly-Chengdu/2015/10/20/monthly-issue-1/</id>
-    <published>2015-10-20T06:07:08.000Z</published>
-    <updated>2017-04-19T02:34:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="News"><a href="#News" class="headerlink" title="News"></a>News</h4><hr>
-<p><a href="http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=27674fea37&amp;e=81238108bb" target="_blank" rel="external">React Native For Android 架构初探</a><br>Facebook刚流出的React Native Android, 已经有团体抢先试水</p>
-<p><a href="http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=e5f7243fca&amp;e=81238108bb" target="_blank" rel="external">RAIL，以用户为核心的性能模型</a><br>Google 试图建立一个关于网站载入性能的标准模型Rail</p>
-<a id="more"></a>
-<h4 id="Tech"><a href="#Tech" class="headerlink" title="Tech"></a>Tech</h4><hr>
-<p><a href="http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=17bfc9c88c&amp;e=81238108bb" target="_blank" rel="external">@font-face的困境</a><br>新技术使用也是有代价的</p>
-<p><a href="http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=34e347ccce&amp;e=81238108bb" target="_blank" rel="external">Flux, Reflux, Redux, Fluxxor</a><br>各种fancy的数据流操作</p>
-<p><a href="http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=c79440dc97&amp;e=81238108bb" target="_blank" rel="external">Functional Programming Guide</a><br>函数式编程指南</p>
-<h4 id="Repo"><a href="#Repo" class="headerlink" title="Repo"></a>Repo</h4><hr>
-<p><a href="http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=00c2ea6691&amp;e=81238108bb" target="_blank" rel="external">WeUI</a><br>WeUI 为微信 Web 服务量身设计</p>
-<p><a href="http://azzfun.us12.list-manage.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;id=2377e0b4f2&amp;e=81238108bb" target="_blank" rel="external">Relax</a><br>基于Nodejs、React、Mongodb的CMS</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h4&gt;&lt;hr&gt;
-&lt;p&gt;&lt;a href=&quot;http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;amp;id=27674fea37&amp;amp;e=81238108bb&quot;&gt;React Native For Android 架构初探&lt;/a&gt;&lt;br&gt;Facebook刚流出的React Native Android, 已经有团体抢先试水&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://azzfun.us12.list-manage1.com/track/click?u=a172c6619bdec9e40bef3dbd5&amp;amp;id=e5f7243fca&amp;amp;e=81238108bb&quot;&gt;RAIL，以用户为核心的性能模型&lt;/a&gt;&lt;br&gt;Google 试图建立一个关于网站载入性能的标准模型Rail&lt;/p&gt;
     
     </summary>
     
